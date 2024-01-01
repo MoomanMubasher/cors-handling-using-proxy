@@ -1,0 +1,1 @@
+a project that explain and handle the famous CORS error that many developers encounters on frontend side and i have handled it on frontend rather than on backend. what i really have to done is to add A PROXY on frontend side in Vite configuration file and boom the magic works like a charm.
